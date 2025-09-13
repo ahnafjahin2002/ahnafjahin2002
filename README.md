@@ -17,8 +17,6 @@ While pursuing my degree in Computer Science at BRAC University, I integrate aca
 
 ## 🛠️ Experience
 
-- 💻 **IT Consultant @ MBI Company**  
-  Contributed to a successful **cloud migration** project that boosted system performance and reliability. Developed hands-on skills in **system analysis**, **project management**, and **technical troubleshooting**.
 
 - 🌍 **Web Development Intern @ GAOTEK Inc.**  
   Currently enhancing full-stack web projects, gaining real-time exposure to development workflows, and working with global teams.
