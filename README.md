@@ -565,26 +565,9 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 
 <br/><br/>
 
-<a href="https://github.com/ahnafjahin2002">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahnafjahin2002&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&count_private=true"/>
-</a>
-<a href="https://github.com/ahnafjahin2002">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafjahin2002&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahnafjahin2002&theme=github-compact&bg_color=0D1117&color=58A6FF&line=A371F7&point=FFFFFF&hide_border=true" width="95%"/>
-
-<br/>
-
 <img alt="Followers" src="https://img.shields.io/github/followers/ahnafjahin2002?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F6FEB&labelColor=0D1117"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/ahnafjahin2002?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=A371F7&labelColor=0D1117"/>
 <img alt="Repos" src="https://img.shields.io/badge/PUBLIC%20REPOS-Dynamic-58A6FF?style=for-the-badge&logo=github&labelColor=0D1117"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ahnafjahin2002&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=A371F7&fire=FFB300&currStreakLabel=58A6FF" width="60%"/>
 
 <br/><br/>
 
