@@ -19,6 +19,13 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA043?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-3.5%2F4.0-58A6FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20HCI%20%7C%20ML-A371F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based%20in-BRAC%20University-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+
+<br/>
+
 ### 🧭 Quick Navigation
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readdotcv&logoColor=58A6FF"/></a>
@@ -45,6 +52,16 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 - 🌐 **Languages:** Bangla (native), English (professional) — learning German, Mandarin, Japanese
 - 🚀 **Teaching:** Algorithms & Dynamic Programming on **[YouTube](https://www.youtube.com/@ahnafjahin3003)**
 
+<br/>
+
+<img src="https://img.shields.io/badge/HCI%20Research-A371F7?style=flat-square&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-1F6FEB?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Systems%20Programming-30363D?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Graphics-E34F26?style=flat-square&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Community%20Leadership-FFB300?style=flat-square&logo=lionsclubsinternational&logoColor=white"/>
+
 <br clear="right"/>
 
 <details open>
@@ -59,6 +76,11 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 | 🌱 **Currently learning** | Accessibility standards (WCAG), advanced qualitative methods, German |
 | 💬 **Ask me about** | Dynamic programming, HCI study design, React + Laravel, socket programming |
 | ⚡ **Fun fact** | I once wrote a crash-consistent journaling file system in C, and a 3D racing game, in the same semester |
+
+<img src="https://img.shields.io/badge/WCAG-005A9C?style=flat-square&logo=w3c&logoColor=white"/>
+<img src="https://img.shields.io/badge/ACM%20CHI-0085CA?style=flat-square&logo=acm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dynamic%20Programming-2EA043?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/German%20A2-000000?style=flat-square&logo=duolingo&logoColor=white"/>
 
 </details>
 
@@ -79,6 +101,15 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,java,html,css&theme=dark&perline=8" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 </details>
 
@@ -87,10 +118,19 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,django&theme=dark&perline=6" />
+<br/><br/>
+<img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <br/>
 <img alt="REST" src="https://img.shields.io/badge/REST%20API%20Design-1F6FEB?style=flat-square&logo=fastapi&logoColor=white"/>
 <img alt="JWT" src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img alt="Responsive" src="https://img.shields.io/badge/Responsive%20Design-58A6FF?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 </div>
 </details>
 
@@ -99,8 +139,10 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=3" />
-<br/>
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<br/><br/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 </details>
 
@@ -109,12 +151,17 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=sklearn,py&theme=dark&perline=4" />
+<br/><br/>
+<img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-A371F7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <br/>
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-A371F7?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img alt="Qualitative Analysis" src="https://img.shields.io/badge/Qualitative%20Analysis-1F6FEB?style=flat-square&logo=googleanalytics&logoColor=white"/>
 <img alt="Accessibility" src="https://img.shields.io/badge/Digital%20Accessibility-A371F7?style=flat-square&logo=w3c&logoColor=white"/>
+<img alt="Statistical Analysis" src="https://img.shields.io/badge/Statistical%20Analysis-1F6FEB?style=flat-square&logo=numpy&logoColor=white"/>
+<img alt="K-Means" src="https://img.shields.io/badge/K--Means%20Clustering-FF6F00?style=flat-square"/>
 </div>
 </details>
 
@@ -123,11 +170,20 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,figma,latex&theme=dark&perline=7" />
+<br/><br/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 <br/>
 <img alt="DevOps" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img alt="Cisco" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
 <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
+<img alt="Agile" src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img alt="TDD" src="https://img.shields.io/badge/Test--Driven%20Development-25A162?style=flat-square"/>
+<img alt="MS Office" src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
 </div>
 </details>
 
@@ -150,6 +206,12 @@ I'm a Computer Science and Engineering senior at **BRAC University**, working as
 <img src="https://img.shields.io/badge/⚙️%20Systems-30363D?style=flat-square"/>
 <img src="https://img.shields.io/badge/🖧%20Networking-1BA0D7?style=flat-square"/>
 <img src="https://img.shields.io/badge/🎮%20Graphics-E34F26?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Total%20Projects-7-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Domains%20Covered-6-A371F7?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Best%20ML%20Accuracy-88.1%25-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </div>
 
@@ -179,9 +241,14 @@ A multimodal assistive learning web application for Bangla-speaking learners wit
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,figma&theme=dark&perline=4"/>
 <br/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/User%20Research-A371F7?style=flat-square"/>
 <img src="https://img.shields.io/badge/HCI%20Methodology-A371F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Accessibility-A371F7?style=flat-square&logo=w3c&logoColor=white"/>
 
 </details>
 
@@ -202,8 +269,12 @@ An end-to-end travel booking platform with real-time availability, secure authen
 
 <img src="https://skillicons.dev/icons?i=nextjs,laravel,mysql,js,css&theme=dark&perline=5"/>
 <br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 </details>
 
@@ -230,9 +301,12 @@ An end-to-end ML pipeline over 24,210 real-world records — preprocessing, feat
 
 <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark&perline=2"/>
 <br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROC%2FAUC-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-FF6F00?style=flat-square"/>
 
 </details>
 
@@ -260,8 +334,11 @@ A crash-consistent, VSFS-like file system implemented in C from the ground up, w
 
 <img src="https://skillicons.dev/icons?i=c,linux&theme=dark&perline=2"/>
 <br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/File%20Systems-30363D?style=flat-square"/>
 <img src="https://img.shields.io/badge/Crash%20Consistency-30363D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Memory%20Management-30363D?style=flat-square"/>
 
 </details>
 
@@ -284,6 +361,9 @@ A mission-critical enterprise network designed and implemented in Cisco Packet T
 <img src="https://img.shields.io/badge/VLSM-1BA0D7?style=flat-square"/>
 <img src="https://img.shields.io/badge/RIPv2-1BA0D7?style=flat-square"/>
 <img src="https://img.shields.io/badge/DHCP%20%C2%B7%20DNS-1BA0D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Static%20Routing-1BA0D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/SMTP%2FPOP3-1BA0D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/8%20Routers-1BA0D7?style=flat-square"/>
 
 </details>
 
@@ -311,6 +391,9 @@ A parallel CNN inference engine architected for autonomous disaster-response dro
 <img src="https://img.shields.io/badge/RISC--V%20%2F%20ARM-A371F7?style=flat-square&logo=riscv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Parallel%20Computing-A371F7?style=flat-square"/>
 <img src="https://img.shields.io/badge/Edge%20AI-A371F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/SoC%20Architecture-A371F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/DMA%20Streaming-A371F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/ECC%20Memory-A371F7?style=flat-square"/>
 
 </details>
 
@@ -331,8 +414,12 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 
 <img src="https://skillicons.dev/icons?i=cpp,opengl,python&theme=dark&perline=3"/>
 <br/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyOpenGL-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Game%20Physics-E34F26?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI%20Pathfinding-E34F26?style=flat-square"/>
+<img src="https://img.shields.io/badge/Collision%20Detection-E34F26?style=flat-square"/>
 
 </details>
 
@@ -353,6 +440,10 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 | **Web Developer Intern** <br/> *GAOTEK Inc.* <br/> <sub>Built and maintained web application features in a production codebase. Performed system testing, debugging, and QA; collaborated on code reviews and iterative improvement cycles.</sub> | **Dec 2023 – Mar 2024** |
 | **YouTube Content Creator & Instructor** <br/> *[@ahnafjahin3003](https://www.youtube.com/@ahnafjahin3003)* <br/> <sub>Teaching algorithms and Dynamic Programming through storytelling, for a public global audience.</sub> | **Present** |
 
+<img src="https://img.shields.io/badge/HCCS%20Research%20Lab-A371F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/GAOTEK%20Inc.-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/YouTube%20Educator-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+
 </details>
 
 <details open>
@@ -365,6 +456,11 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 | **B.Sc. in Computer Science & Engineering** <br/> *BRAC University, Dhaka* <br/> <sub>Most recent semester GPA: 3.9</sub> | **Jan 2023 – Sep 2026** |
 | **Higher Secondary Certificate (HSC)** <br/> *Dhaka Residential Model College* — GPA 5.00 (A+) | **2019 – 2021** |
 | **Secondary School Certificate (SSC)** <br/> *Mohammadpur Preparatory School and College* — GPA 5.00 (A+) | **2016 – 2018** |
+
+<img src="https://img.shields.io/badge/CGPA-3.5-58A6FF?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Latest%20Semester%20GPA-3.9-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/HSC-GPA%205.00-A371F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/SSC-GPA%205.00-A371F7?style=flat-square"/>
 
 **Relevant coursework —**
 <br/>
@@ -389,6 +485,10 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 - 🥉 **The Bronze Standard** — The Duke of Edinburgh's International Award
 - 📊 **Data Science & AI** — DataCamp
 
+<img src="https://img.shields.io/badge/Aspire%20Leaders%20Program-Harvard%20University-A51C30?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Duke%20of%20Edinburgh-Bronze%20Standard-CD7F32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DataCamp-Data%20Science%20%26%20AI-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/>
+
 </details>
 
 <div align="center">
@@ -401,6 +501,8 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 
 <img src="https://img.shields.io/badge/Leo%20Club%20of%20Dhaka%20Aristocrat-Membership%20Chairperson-FFB300?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Lions%20Clubs%20International-District%20Technical%20Coordinator-1F6FEB?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/District-315B1-30363D?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Region-Bangladesh-006A4E?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
@@ -420,6 +522,11 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 - Coordinate technical operations and digital systems at the district level for Lions Clubs International
 - Support district-wide training and programme design — organisational leadership beyond the technical domain
 
+<img src="https://img.shields.io/badge/Membership%20Growth-FFB300?style=flat-square"/>
+<img src="https://img.shields.io/badge/District%20Operations-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Community%20Service-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Volunteer%20Leadership-A371F7?style=flat-square"/>
+
 </details>
 
 <details open>
@@ -434,6 +541,11 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 
 - Managed end-to-end planning and execution of academic and cultural events across two clubs
 - Built project coordination and stakeholder management skills alongside the technical work
+
+<img src="https://img.shields.io/badge/Event%20Management-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/BURED-30363D?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUMC-30363D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stakeholder%20Management-58A6FF?style=flat-square"/>
 
 </details>
 
@@ -472,6 +584,10 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 
 <br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=ahnafjahin2002&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=A371F7&fire=FFB300&currStreakLabel=58A6FF" width="60%"/>
+
+<br/><br/>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" width="80%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -490,6 +606,12 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 <a href="https://linkedin.com/in/ahnaf-jahin-37b811385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ahnafjahin22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/ahnafjahin2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Response%20Time-Within%2024h-2EA043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Timezone-GMT%2B6%20Dhaka-58A6FF?style=for-the-badge&logo=clockify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's%20Talk-Algorithms%20%7C%20HCI%20%7C%20Web%20Dev-A371F7?style=for-the-badge"/>
 
 <br/>
 
