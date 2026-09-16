@@ -571,6 +571,19 @@ A 3D racing game engineered from scratch in C++ and OpenGL — no game engine in
 
 <br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=ahnafjahin2002&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=A371F7&fire=FFB300&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="65%"/>
+
+<br/><br/>
+
+<a href="https://github.com/ahnafjahin2002">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahnafjahin2002&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/ahnafjahin2002">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafjahin2002&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
+</a>
+
+<br/><br/>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" width="80%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
