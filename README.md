@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,80:58A6FF,100:A371F7&height=200&section=header&text=Ahnaf%20Jahin&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Web%20Developer%20%E2%80%A2%20Content%20Creator%20%E2%80%A2%20Educator&descAlignY=56&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,80:58A6FF,100:A371F7&height=200&section=header&text=Ahnaf%20Jahin&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=HCI%20Researcher%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Engineer&descAlignY=56&descSize=16&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=Web+Developer+Intern+at+GAOTEK+Inc.;Content+Creator+%40+YouTube+%7C+Dynamic+Programming;B.Sc.+CSE+Senior+at+BRAC+University;I+make+complex+topics+simple+and+engaging" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=HCI+Researcher+%26+Accessibility+Advocate;Full-Stack+Web+Developer+%7C+DevOps;Interactive+Software+Developer;B.Sc.+CSE+Senior+at+BRAC+University" alt="Typing SVG"/>
 
 <br/>
 
@@ -24,17 +24,15 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
-Hi there! 👋 I'm a passionate **Content Creator, Educator, and Developer** who loves making complex topics like **Dynamic Programming** simple and engaging for learners around the world. 
+I'm a Computer Science and Engineering senior at **BRAC University**, currently working as an **HCI Researcher** with a strong focus on digital accessibility and adaptive interfaces. I build systems end-to-end—bridging the gap between human-centered design and robust backend architecture.
 
-While pursuing my degree in Computer Science at **BRAC University**, I integrate academic concepts into real-world teaching — blending theory with practicality. I lead a team that curates educational playlists and interactive lessons aimed at empowering students, developers, and tech enthusiasts alike. 🎥💡
+Alongside my academic research in the Human-Centered Computing and Society Research Group, I operate an educational YouTube channel focused on algorithms and dynamic programming. 
 
-- 💼 **Web Developer Intern** at GAOTEK Inc. — working with global teams on full-stack projects.
-- 🎓 **Senior Student (B.Sc. in CSE)**, BRAC University.
-- 🎬 **YouTube Content Creator** — Breaking down algorithms with storytelling and real-world analogies.
-- 🌐 **Multilingual Learner** — Fluent in English, Bangla, Hindi, and currently learning French, Chinese, and German.
+- 🔬 **Research Focus:** Digital Accessibility, Adaptive Interfaces, Human-Computer Interaction
+- 💻 **Engineering:** Full-Stack Web Development, DevOps, Interactive Software Development
+- 🎓 **Education:** B.Sc. in CSE, BRAC University
+- 🌐 **Multilingual Learner:** Fluent in English, Bangla, Hindi, and currently exploring French, Chinese, and German.
 - 🚀 Connect with my lessons → **[YouTube Channel](https://www.youtube.com/@ahnafjahin3003)**
-
-> *“I like to teach and learn — and I strongly believe that education should be accessible, fun, and community-driven.”*
 
 <br clear="right"/>
 
@@ -42,27 +40,41 @@ While pursuing my degree in Computer Science at **BRAC University**, I integrate
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=680&height=35&lines=Web+Development+%2F%2F+Algorithms+%2F%2F+Data+Structures;Full-Stack+%2F%2F+Content+Creation+%2F%2F+Dynamic+Programming" alt="stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=680&height=35&lines=HCI+%26+Accessibility+%2F%2F+Full-Stack+%2F%2F+DevOps;Interactive+Software+%2F%2F+Algorithms" alt="stack"/>
 
 <br/>
 
-**Languages & Algorithms**
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,php,js,html,css&theme=dark&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css&theme=dark&perline=6" />
-
-**Web Development & Tools**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,linux&theme=dark&perline=8" />
 <br/>
 
-<img alt="Dynamic Programming" src="https://img.shields.io/badge/Dynamic%20Programming-A371F7?style=flat-square&logo=leetcode&logoColor=white"/>
-<img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-1F6FEB?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
-<img alt="Video Editing" src="https://img.shields.io/badge/Content%20Creation-E7352C?style=flat-square&logo=youtube&logoColor=white"/>
-<img alt="Duolingo" src="https://img.shields.io/badge/Duolingo%20Streak%20Society-58CC02?style=flat-square&logo=duolingo&logoColor=white"/>
+**Web · Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,laravel,django&theme=dark&perline=8" />
+
+<br/>
+
+**HCI · Design · Research**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,latex&theme=dark&perline=4" />
+<br/>
+<img alt="Accessibility" src="https://img.shields.io/badge/Digital%20Accessibility-A371F7?style=flat-square&logo=w3c&logoColor=white"/>
+<img alt="Qualitative Analysis" src="https://img.shields.io/badge/Qualitative%20Analysis-1F6FEB?style=flat-square&logo=googleanalytics&logoColor=white"/>
+
+<br/>
+
+**DevOps · Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode&theme=dark&perline=5" />
+<br/>
+<img alt="DevOps" src="https://img.shields.io/badge/DevOps-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
@@ -72,9 +84,10 @@ While pursuing my degree in Computer Science at **BRAC University**, I integrate
 
 | | |
 |:--|:--|
-| **Web Development Intern** <br/> *GAOTEK Inc. (US-based tech company)* <br/> <sub>Enhancing full-stack web projects, gaining real-time exposure to development workflows, and collaborating globally.</sub> | Present |
-| **B.Sc. in Computer Science & Engineering** <br/> *BRAC University* — Senior Student | Present |
-| **YouTube Content Creator & Instructor** <br/> *[@ahnafjahin3003](https://www.youtube.com/@ahnafjahin3003)* <br/> <sub>Teaching Dynamic Programming via storytelling, live Q&As, and fostering an inclusive global learning environment.</sub> | Present |
+| **Student Researcher (HCI & Society)** <br/> *BRAC University* <br/> <sub>Conducting research on digital accessibility, adaptive interfaces, and qualitative analysis of orthography processing. Preparing submissions for ACM CHI.</sub> | 2026 – Present |
+| **B.Sc. in Computer Science & Engineering** <br/> *BRAC University* — Senior Student | 2022 – 2026 |
+| **YouTube Content Creator & Instructor** <br/> *[@ahnafjahin3003](https://www.youtube.com/@ahnafjahin3003)* <br/> <sub>Teaching algorithms and Dynamic Programming via storytelling and fostering an inclusive global learning environment.</sub> | Present |
+| **Web Development Intern** <br/> *GAO Tek Inc. (US-based tech company)* <br/> <sub>Contributed to full-stack web platforms using PHP, Python, and Laravel. Gained real-time exposure to DevOps workflows.</sub> | 2024 |
 
 
 <div align="center">
